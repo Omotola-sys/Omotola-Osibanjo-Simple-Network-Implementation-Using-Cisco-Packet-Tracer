@@ -1,0 +1,2 @@
+# Omotola-Osibanjo-Simple-Network-Implementation-Using-Cisco-Packet-Tracer
+Simple Network Implementation Using Cisco Packet Tracer This repository contains a hands-on implementation of a basic network design using Cisco Packet Tracer. The project demonstrates fundamental networking concepts, including device configuration, topology setup, and connectivity testing to simulate a functional network environment.
